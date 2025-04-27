@@ -1,9 +1,4 @@
-# System call numbers (macOS x86_64)
-SYS_EXIT  = 0x2000001
-SYS_READ  = 0x2000003
-SYS_WRITE = 0x2000004
-SYS_OPEN  = 0x2000005
-SYS_CLOSE = 0x2000006
+
 
 # File open flags (combine with OR)
 O_WRONLY = 0x0001      # Open for writing only
